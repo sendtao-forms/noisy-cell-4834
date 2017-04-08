@@ -1,0 +1,89 @@
+{
+  "title": "Food Safety and Hygiene Assessment Report",
+  "type": "DAILY",
+  "_start": "tiny-bonus-6289:1",
+  "pages": [
+    {
+      "page": "tiny-bonus-6289:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::weathered-silence-2989:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "weathered-silence-2989:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::shy-wildflower-4833:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "shy-wildflower-4833:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::wild-firefly-5869:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "wild-firefly-5869:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::white-wave-7447:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "white-wave-7447:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::proud-base-4622:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "proud-base-4622:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::broad-tooth-1138:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "broad-tooth-1138:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::polished-bread-3104:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "polished-bread-3104:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::muddy-salad-5519:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "muddy-salad-5519:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::flat-fog-2957:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "flat-fog-2957:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "SUBMIT",
+        "_false": "CORRECT"
+      }
+    }
+  ],
+  "tags": null,
+  "options": null
+}
