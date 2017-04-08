@@ -1,0 +1,84 @@
+{
+  "title": "Category 7",
+  "sections": [
+    {
+      "id": "little-smoke-6013",
+      "title": "Cleaning Schedule/Programme",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "bold-lab-1185",
+          "title": "Is there a master cleaning schedule/programme in place?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "quiet-tree-3047",
+          "title": "Are the cleaning and sanitising chemicals/materials in use, only food approved ones? (Shell requirements: only Rentokil, Ecolab or Hychem chemicals can be used)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "holy-silence-8934",
+          "title": "Are all cleaning and sanitising containers clearly labelled with the 1) Product information, 2) Supplier’s name, 3) Instructions for use. No storage in food containers.",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "red-shape-3277",
+          "title": "Are cleaning and sanitising materials available to staff throughout the day. Is sanitiser solution e.g. spray bottles available in food preparation areas?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "twilight-meadow-6958",
+          "title": "Are sanitisers mixed/diluted as per the instructions to ensure they are effective? (correct concentration levels)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "round-wind-6259",
+          "title": "Are disposable cloths in use? And what is the condition of surface cloths?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "aged-credit-0785",
+          "title": "Cleaning equipment should be clearly identifiable. Are equipment used for food preparation areas kept separate than those used for toilets and outside areas?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "fancy-star-0024",
+          "title": "Are cleaning equipment stored in a specific area and is this area kept in a neat and clean condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
