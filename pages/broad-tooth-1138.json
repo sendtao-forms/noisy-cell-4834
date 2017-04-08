@@ -1,0 +1,174 @@
+{
+  "title": "Category 6",
+  "sections": [
+    {
+      "id": "crimson-river-9584",
+      "title": "Hand wash Facilities and Hygiene",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "soft-snowflake-7811",
+          "title": "Are there dedicated hand wash basins available that are only used for washing of hands (no dishes etc.?). Are these basins accessible?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "damp-dust-1516",
+          "title": "Are these basins cleaned regularly?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "shiny-tooth-3016",
+          "title": "Are there hot water available at these basins? (refer to Regulation 962)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "delicate-art-2613",
+          "title": "Availability of appropriate hand washing signage?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "frosty-fire-4757",
+          "title": "Antibacterial hand soap available to wash hands with? (Ecolab & Rentokil – only approved contractors for Shell)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "bitter-smoke-0597",
+          "title": "Hand sanitiser available?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "orange-glade-6652",
+          "title": "Hand dryer/disposable paper towel available?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "red-morning-0084",
+          "title": "Do staff know how to wash hands correctly? E.g. posters displayed or training etc.?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "wandering-mouse-6066",
+          "title": "Are hands and forearms frequently washed between tasks/breaks (e.g. after tea and lunch breaks)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "late-queen-6515",
+          "title": "Are finger nails neat and clean? And also without any nail varnish?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "cool-sound-2138",
+          "title": "No jewellery worn by the food handlers? If they do, are these adequately covered?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "wispy-recipe-6697",
+          "title": "Are the hair completely covered by headgear e.g. hairnets?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "shy-math-9627",
+          "title": "If any wounds or cuts, are they adequately covered/protected?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "gentle-brook-6708",
+          "title": "Are gloves correctly used and controlled (if applicable)?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "weathered-union-3722",
+          "title": "Are the protective clothing being worn, observed to be neat and clean? (Visible appearance). Does the protective clothing include closed shoes worn by all food handlers?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "tight-snow-8384",
+          "title": "Are the disposable outer clothing removed when food hanlders are leaving the production area for any breaks?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "broad-term-8014",
+          "title": "Are there any evidence of eating, drinking or chewing gum, present in the preparation area?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "tight-hall-4069",
+          "title": "Are personal belongings stored outside the working area?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
