@@ -1,0 +1,48 @@
+{
+  "title": "Category 9",
+  "sections": [
+    {
+      "id": "green-tree-5899",
+      "title": "Refuse/Waste Areas",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "bold-feather-2111",
+          "title": "Adequate number of waste bins provided. No rubble laying around and waste container are covered when not in use?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "dark-cake-2089",
+          "title": "Are the waste area well maintained, kept clean and in a good condition, with no offensive odours?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "bitter-glade-0423",
+          "title": "Are waste disposed of in a manner so that it does not cause any potential cross contamination into the food preparation/kitchen areas?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "summer-rice-9854",
+          "title": "Are waste bins cleaned and sanitised before being returned to the food preparation/kitchen area?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
