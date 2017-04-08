@@ -1,0 +1,219 @@
+{
+  "title": "Category 1",
+  "sections": [
+    {
+      "id": "floral-hat-2540",
+      "title": "Food Service Areas, Seating and Sales",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "billowing-poetry-0830",
+          "title": "Floors: Clean and in good condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "dawn-feather-4069",
+          "title": "Walls: Clean and in good condition? (No paint peeling off or broken tiles/plaster etc.?)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "little-moon-6154",
+          "title": "Ceiling: Clean and in condition good?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "wild-poetry-5646",
+          "title": "Extractor fans, Air vents & light fittings clean and in good condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "green-frost-0556",
+          "title": "Display shelves clean and in good condition? Prices or product names displayed on main shelves?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "broad-snowflake-0355",
+          "title": "Food Items/Merchandise neatly packed and shelves clean?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "holy-poetry-0509",
+          "title": "Detergents/Cleaning materials stored separate from food products?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "round-term-4571",
+          "title": "Dispensers: Coffee, Juice, Soft Drinks etc. clean?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "calm-recipe-1091",
+          "title": "Shelving/Baskets used for bread, rolls or other food products kept clean?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "tight-morning-4946",
+          "title": "Baskets used for shopping kept clean?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "dawn-wildflower-5697",
+          "title": "Cleaning equipment and any other litter/rubble are not left/stored inside the shop?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "wild-dust-6469",
+          "title": "Hot Perishable warmers (sales area) clean?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "calm-salad-9566",
+          "title": "The product temperature of hot foods that’s stored in pie warmers of Bain maries are maintained at or above 65˚C",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "falling-brook-4343",
+          "title": "Product Log Sheets (sales warmers) completed regularly as required?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "blue-thunder-8089",
+          "title": "Warmer temperature gauge in good working order?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "odd-fog-9456",
+          "title": "Displays for cold perishable products (sales area) are clean? E.g. sandwiches, confectionary etc.",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "dawn-recipe-8117",
+          "title": "Temperature for displays of cold perishable products (sales area) – temp of products below 7˚C?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "withered-butterfly-7270",
+          "title": "Product Log Sheets (sales area – cold perishable displays) completed regularly as required?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "sweet-glade-4229",
+          "title": "Cold holding temperature gauge in good working order?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "dawn-math-4619",
+          "title": "Any perishable products that’s kept at room temperature?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "flat-voice-6954",
+          "title": "Ambient Temperature – area close to dairy fridges",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "sparkling-brook-7915",
+          "title": "Any expired stock on sale or products with no dates? This excludes any perishables – covered in another category",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "patient-mud-1525",
+          "title": "Refuse Bins – cleaned and refuse disposed of frequently",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
