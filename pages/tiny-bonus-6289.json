@@ -1,0 +1,119 @@
+{
+  "title": "Assessment Report",
+  "sections": [
+    {
+      "id": "gentle-mode-7602",
+      "title": "Site Details",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "curly-star-1606",
+          "title": "Site Details",
+          "description": "Store Name and Address",
+          "type": "DEFAULT_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "still-art-0909",
+              "label": "Store name",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "fragrant-wildflower-3858",
+              "label": "Store address",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "muddy-butterfly-1284",
+              "label": "Reference number",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "black-hall-4662",
+          "title": "Contact person",
+          "description": "Contact person(s) details",
+          "type": "DEFAULT_QUESTION",
+          "array": true,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "broken-sea-2825",
+              "label": "Full name",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "yellow-frog-2510",
+              "label": "Telephone number",
+              "type": "phone",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "dry-scene-8224",
+              "label": "Cell phone number",
+              "type": "phone",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "hidden-rice-9878",
+              "label": "E-mail address",
+              "type": "email",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "lively-wood-3441",
+          "title": "Auditor details",
+          "description": "Auditor details",
+          "type": "DEFAULT_QUESTION",
+          "array": true,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "divine-credit-2545",
+              "label": "Full name",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "soft-violet-4367",
+              "label": "Telephone number",
+              "type": "phone",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "soft-sunset-1640",
+              "label": "Cell phone number",
+              "type": "phone",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "shy-mode-2129",
+              "label": "E-mail address",
+              "type": "email",
+              "description": null,
+              "validation": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
