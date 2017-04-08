@@ -1,0 +1,75 @@
+{
+  "title": "Category 3",
+  "sections": [
+    {
+      "id": "muddy-pine-6307",
+      "title": "Dry Storage Areas",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "dawn-dust-4937",
+          "title": "Floors, Walls Ceilings: Clean and in good condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "sweet-snow-4637",
+          "title": "Good housekeeping practices observed in the area?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "muddy-queen-5347",
+          "title": "Are the shelving used in the dry storage area or storage room clean and in good condition? Are these shelves made out of suitable materials?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "spring-forest-6267",
+          "title": "Stock rotation takes place and storage practices area adequate (makes this process effective)?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "sweet-grass-0448",
+          "title": "Are stock stored off the floor (e.g. on shelves or pallets)? No stock are left on the floor?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "rough-river-9009",
+          "title": "Are expired stock or returned items kept separate in a designated area? Away from the other stock? Are these items clearly marked as such?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "still-credit-7072",
+          "title": "Chemicals are not stored together with food products in the same store?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
