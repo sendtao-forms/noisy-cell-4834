@@ -1,0 +1,147 @@
+{
+  "title": "Category 4",
+  "sections": [
+    {
+      "id": "billowing-pond-7387",
+      "title": "Cold Storage Areas & Displays",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "frosty-moon-4386",
+          "title": "Floors, Walls Ceilings: Clean and in good condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "young-star-9483",
+          "title": "Are the Soda/Beverage fridges clean, in good condition, stock well packed and adequate lighting?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "yellow-dawn-7357",
+          "title": "Temperature of Soda/Beverage fridge: Range (3 ˚C to 8 ˚C). If milk present (4 ˚C or less)-Surface 6 ˚C or less?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "cold-sun-1540",
+          "title": "Expired stock (Soda/Beverage fridges)? Condition of stock inside fridges good?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "mute-hill-6460",
+          "title": "Are Dairy/Deli fridges kept in clean condition? Stock well packed and adequate lighting?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "royal-smoke-5879",
+          "title": "Temperature of Dairy/Deli fridges: Range (milk below 4˚C and other products 7˚C). If milk present (4 ˚C or less)-Surface 6 ˚C or less? Take temperature",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "wild-brook-4219",
+          "title": "Expired stock (Dairy/Deli fridges)? Condition of stock inside fridges good?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "mute-base-7557",
+          "title": "Are the Frozen Products Freezer/s kept clean, in good condition, stock well packed and adequate lighting?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "crimson-scene-1799",
+          "title": "Temperature of Frozen Products Freezer: Range (at below -12 ˚C)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "spring-frog-6968",
+          "title": "Expired stock (Frozen Products Freezer)? Condition of stock inside freezer good?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "icy-lab-6090",
+          "title": "Are the Sales Chest Ice Cream Freezers kept clean, in good condition, stock well packed and adequate lighting?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "fancy-term-8985",
+          "title": "Temperature of Sales Chest Ice Cream Freezers: Range (less than -18 at below - 12 ˚C +/-2 ˚C) so minus 18 ˚C or less",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "dawn-hall-7771",
+          "title": "Expired stock (Sales Chest Ice Cream Freezers)? Condition of stock inside freezer good?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "tiny-math-5568",
+          "title": "Fridge/Freezer Product Log Sheets (all sales areas) completed regularly as required?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "young-bush-3014",
+          "title": "Temperature gauges on all cold holding equipment (fridges/freezers) working?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
