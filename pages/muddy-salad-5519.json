@@ -1,0 +1,219 @@
+{
+  "title": "Category 8",
+  "sections": [
+    {
+      "id": "muddy-wave-4044",
+      "title": "Pest Control Implementation, Food Hygiene Practices, Personnel Training, Staff Facilities/Patron Toilets & All General",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "tiny-forest-9558",
+          "title": "Is there a pest control program in place and being implemented?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "cold-haze-0688",
+          "title": "Is there a contract in place with the pest control company, specifying the frequency of services and records available of service reports? (Ecolab and Rentokil (Initial) are the only approved pest contractors for Shell).",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "shrill-bonus-5499",
+          "title": "Are the MSDS (Material safety Data Sheets) for all cleaning chemicals in use as well as pesticides applied by the Pest Control Operator (PCO) available on file?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "aged-feather-3334",
+          "title": "Is there a valid pest control operator registration certificate on file?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "tight-sunset-4566",
+          "title": "Is there any evidence of pest activity e.g. dead insects, droppings etc?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "tight-term-8083",
+          "title": "Are any domestic pesticide products used/found in the stores? This not to be allowed. E.g. Rattex, Raid, Doom?  Rodent bait boxes are not allowed in the food production area.",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "red-frog-4482",
+          "title": "Did all the food handlers undergo hygiene training?(see training program & records)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "twilight-mode-9199",
+          "title": "Are the dates and temperatures of perishable goods checked and recorded on receipt?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "soft-waterfall-8621",
+          "title": "Are the protocols for receiving perishables established and documented?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "black-hall-6112",
+          "title": "Defrosting of food products done correctly? What is the practice for defrosting? No use of water for defrosting and products don’t exceed 7˚C?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "royal-snow-5869",
+          "title": "Behavioural based observations: no bad habits observed? No cross contamination incidents noted?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "wispy-bush-2136",
+          "title": "Is there a thermometer available at the unit and is it in good working order?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "falling-dew-9042",
+          "title": "Are suitable sanitary facilities available for staff? The doors from sanitary facilities must not open directly into the kitchen/food preparation areas.",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "hidden-resonance-0530",
+          "title": "Are the walls, windows, ceilings, floors, Hand Wash Basins, Toilets and Urinals etc. at the sanitary facilities in a good and clean condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "icy-sky-4089",
+          "title": "Are all hand wash basins provided with hot and cold water? Availability of antibacterial hand soap?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "white-term-7205",
+          "title": "Is there toilet paper available in the toilets?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "flat-frog-3636",
+          "title": "Is there a waste bin provided and sanitary bins in female toilets?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "dawn-meadow-4769",
+          "title": "Hand drying towels or a dryer available in the toilets?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "shrill-lake-3247",
+          "title": "Are adequate lockers available for storage of clothes & personal effects?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "divine-truth-2990",
+          "title": "Is there a valid Certificate of Acceptability (COA) displayed at the unit? (refer to Health Act Regulation 962)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "small-bar-7488",
+          "title": "First aid box available with the content as per the OHS Act and a trained first aider? Emergency telephone nrs readily available in case of emergency?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "orange-darkness-8043",
+          "title": "In the food preparation area, is there a fire extinguisher available with updated serviced) and a fire blanket (if required)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "rapid-dream-7333",
+          "title": "Corrective actions: are actions highlighted in the previous assessments reports effectively actioned, implemented and closed out.",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
