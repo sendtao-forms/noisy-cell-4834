@@ -1,0 +1,192 @@
+{
+  "title": "Category 2",
+  "sections": [
+    {
+      "id": "floral-sun-1540",
+      "title": "Food Preparation Areas & Equipment",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "rapid-mouse-7519",
+          "title": "Floors: Clean and in good condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "frosty-bush-1588",
+          "title": "Walls: Clean and in good condition? (No paint peeling off or broken tiles/plaster etc.?)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "nameless-recipe-2769",
+          "title": "Ceiling: Clean and in condition good?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "old-block-8209",
+          "title": "Are the walls, ceilings and floors constructed of a suitable material?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "dawn-cell-3022",
+          "title": "Are the floor drains, fat traps/grease traps and gullies clean and in a good condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "twilight-union-1658",
+          "title": "The sinks and drains are clean and no blocked drains observed?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "proud-sea-5858",
+          "title": "No leaking taps observed? And running hot water is provided at the sink.",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "empty-breeze-5379",
+          "title": "All light fittings are clean?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "empty-recipe-6423",
+          "title": "No loose or exposed wires observed in area?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "dawn-salad-4746",
+          "title": "Extractor hoods are in use when frying/cooking takes place? Extractor hoods are cleaned frequently?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "noisy-forest-6310",
+          "title": "Food Preparation surfaces (tables, counters) are clean and in good condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "falling-bar-7250",
+          "title": "All food utensils & equipment are clean and kept in good condition. Any wooden utensils are kept in good condition, if in use?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "snowy-wave-8774",
+          "title": "Food utensils and equipment are kept in order to prevent it from becoming contaminated?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "small-leaf-7120",
+          "title": "Have all the large cooking equipment been kept clean and in good condition? E.g. microwaves, ovens, warmers, proover, ice machine, etc.",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "empty-king-5446",
+          "title": "All chest freezers, under counter fridges kept clean and are they sealing properly?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "white-hat-3368",
+          "title": "Are food products in fridges or freezer stored in such a manner that it couldn’t become cross contaminated?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "delicate-shadow-5777",
+          "title": "Are all products stored in fridges dated? There are no undated or outdated products?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "damp-sun-4049",
+          "title": "Are the chest freezers, under counter fridges/freezers operating within the required parameters, as specified in Regulation 962 of the Health Act? Milk & raw products (4 ˚C), other perishables (at or below 7 ˚C), Freezers (at or below -12 ˚C)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "orange-bonus-0283",
+          "title": "Refuse bins are kept clean, are lined, lids are kept closed when not in use, and it’s emptied frequently to avoid accumulation of pests or cross contamination?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "broken-voice-7509",
+          "title": "Refuse bins not store in close proximity of food?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
