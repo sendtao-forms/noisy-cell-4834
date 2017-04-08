@@ -1,0 +1,111 @@
+{
+  "title": "Category 5",
+  "sections": [
+    {
+      "id": "still-surf-4030",
+      "title": "Walk In Fridges/Main Cold Storage (Fridges & Freezers)",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "royal-recipe-1441",
+          "title": "Are temperature gauges of the fridges and freezes operational?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "sparkling-lab-4535",
+          "title": "Are suitable material used for the construction of the main refrigeration units? Are they in a good condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "rapid-sun-1774",
+          "title": "Are the floors, ceiling, walls, doors, shelves, light fittings, shelves etc. in a clean condition?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "young-mode-0445",
+          "title": "Are refrigerated products such as milk and raw products kept at or below 4˚C, other perishables at or below 7˚C, freezers at or below -12˚C and ice cream below -18˚C? (referred to in Regulation 962)",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "orange-surf-3492",
+          "title": "Are raw and cooked food products stored separate to prevent possible cross contamination?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "icy-sun-6476",
+          "title": "Are all stock stored off the floor?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "shiny-sound-5722",
+          "title": "Are all stock in good condition e.g. no damaged/torn packaging, leakages, blown tins etc.?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "cool-silence-7257",
+          "title": "Are there any expired stock present?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "delicate-wave-5041",
+          "title": "Is the FIFO principle practiced? And effective stock rotation implemented?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "muddy-butterfly-5840",
+          "title": "Are the packaging, boxes and containers etc. date stamped or labelled?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        },
+        {
+          "id": "icy-sky-8635",
+          "title": "Are goods returned to the back-up cold stores? And if they are, are they then stored in containers and labelled with use by dates?",
+          "description": "",
+          "type": "GRADE_QUESTION",
+          "array": false,
+          "validation": "max:2",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
